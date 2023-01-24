@@ -1,5 +1,5 @@
 ### Hi there 👋
-This repository contains process visuals and training/transition materials I have created in the past. Feel free to use these for your own needs or inspiration!
+This repository contains process visuals and training/transition materials I have created in the past. I hope you find utilization for these as is or inspire you to create something new and unique of your own!
 <!--
 **kevinlauman/kevinlauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
